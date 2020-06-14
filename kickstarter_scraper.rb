@@ -19,3 +19,4 @@ create_project_hash
 #project.css("p.bbcard_blurb").text
 
 
+location-name
